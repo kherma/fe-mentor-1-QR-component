@@ -22,7 +22,7 @@ img {
 }
 
 p,
-h2 {
+h1 {
   overflow-wrap: break-word;
 }
 
@@ -30,6 +30,6 @@ p {
   text-wrap: pretty;
 }
 
-h2 {
+h1 {
   text-wrap: balance;
 }
