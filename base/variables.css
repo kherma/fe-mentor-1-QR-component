@@ -11,4 +11,8 @@
 
   --font-base: 400;
   --font-bold: 700;
+
+  --spacing-500: 2.5rem /*40px*/;
+  --spacing-300: 1.5rem /*24px*/;
+  --spacing-200: 1rem /*16px*/;
 }
