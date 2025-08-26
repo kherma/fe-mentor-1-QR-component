@@ -1,0 +1,15 @@
+/* Typography Presets */
+
+.text-base {
+  font-size: var(--text-base);
+  line-height: 1.4;
+  letter-spacing: 0.2px;
+  color: var(--slate-500);
+}
+
+.text-heading-2 {
+  font-size: var(--text-large);
+  line-height: 1.2;
+  letter-spacing: 0px;
+  color: var(--slate-900);
+}
