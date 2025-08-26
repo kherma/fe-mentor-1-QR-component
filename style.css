@@ -1,5 +1,5 @@
 .qr-code {
-  min-height: 100vh;
+  min-height: 100svh;
   display: grid;
   place-content: center;
 }
@@ -8,7 +8,8 @@
   background-color: var(--white);
   max-width: 20rem;
   padding: var(--spacing-200);
-  padding-bottom: var(--spacing-500);
+  padding-block-end: var(--spacing-500);
+  writing-mode: horizontal-tb;
   border-radius: 20px;
   text-align: center;
   box-shadow: 0 25px 25px var(--shadow);
