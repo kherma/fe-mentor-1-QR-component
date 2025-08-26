@@ -1,0 +1,29 @@
+.qr-code {
+  min-height: 100vh;
+  display: grid;
+  place-content: center;
+}
+
+.qr-code__card {
+  background-color: var(--white);
+  max-width: 20rem;
+  padding: var(--spacing-200);
+  padding-bottom: var(--spacing-500);
+  border-radius: 20px;
+  text-align: center;
+  box-shadow: 0 25px 25px var(--shadow);
+}
+
+.qr-code__img {
+  object-fit: contain;
+  border-radius: 10px;
+}
+
+.qr-code__text {
+  margin-top: var(--spacing-300);
+  padding: 0 var(--spacing-200);
+}
+
+.qr-code__description {
+  margin-top: var(--spacing-200);
+}
