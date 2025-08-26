@@ -2,7 +2,7 @@
 
 ---
 
-Live Site URL: [kherma.github.io/fe-mentor-1-QR-component](https://kherma.github.io/fe-mentor-1-QR-component/)
+Live Site URL: [fe-mentor-1-qr-component.netlify.app](https://fe-mentor-1-qr-component.netlify.app/)
 
 ---
 
